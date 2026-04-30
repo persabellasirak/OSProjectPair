@@ -118,17 +118,17 @@ public class BenchmarkTriangles {
     /**
      * Class name for the single-process implementation.
      */
-    private static final String SINGLE_PROCESS_CLASS = "Triangles";
+    private static final String SINGLE_PROCESS_CLASS = "com.tryright.Triangles";
 
     /**
      * Class name for the multithreaded implementation.
      */
-    private static final String THREAD_CLASS = "ThreadTriangles";
+    private static final String THREAD_CLASS = "com.tryright.ThreadTriangles";
 
     /**
      * Class name for the multiprocess implementation.
      */
-    private static final String PROCESS_CLASS = "ProcessTriangles";
+    private static final String PROCESS_CLASS = "com.tryright.ProcessTriangles";
 
     /**
      * Prevents construction of this utility class.
