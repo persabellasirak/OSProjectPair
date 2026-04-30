@@ -103,7 +103,7 @@ public class BenchmarkTriangles {
      * Divider used to make the benchmark output easier to read.
      */
     private static final String DIVIDER =
-            "------------------------------------------------------------------------------------";
+            "------------------------------------------------------------------------------------------------";
 
     /**
      * Java executable used to launch each benchmark command.
